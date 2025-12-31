@@ -1,4 +1,4 @@
-#🤖  Hamidreza Farhadi Tolie
+# 🤖  Hamidreza Farhadi Tolie
 
 ### 🎓 Ph.D. in Artificial Intelligence | 🧩 Research Fellow at University of Warwick  
 **Research interests:** Image Processing, Computer Vision, Deep Learning, and Data Science.
