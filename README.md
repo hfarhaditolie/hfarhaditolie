@@ -24,6 +24,7 @@ My work centers on building **machine learning** and **computer vision systems**
 ---
 
 ## 🧾 Publications & Highlights
+- 🔋 *Large format battery SoC estimation: An ultrasonic sensing and deep transfer learning predictions for heterogeneity* — **Energy and AI (2025)**  
 - 🧠 *Swin Transformer and generative adversarial networks for accurate battery electrode thickness prediction in manufacturing using ultrasound sensing* — **Journal of Power Sources (2025)**  
 - 🌊 *DICAM: Deep inception and channel-wise attention modules for underwater image enhancement* — **Neurocomputing (2025)**  
 - 🎤 *Presented at SPIE Sensors + Imaging (2024)*
