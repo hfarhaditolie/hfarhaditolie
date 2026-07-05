@@ -19,8 +19,6 @@ My work centers on building **machine learning** and **computer vision systems**
 ## 🚀 Current Projects
 - 🔹 **X-ray Diffaraction data analysis** with deep transfer learning
 - 🔹 **Ultrasound Signal-based Material Characterisation** using attention-augmented transformer models 
-- 🔹 **SEM Image Segmentation** for material analysis  
-
 ---
 
 ## 🧾 Publications & Highlights
