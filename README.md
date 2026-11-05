@@ -27,7 +27,8 @@ My work centers on building **machine learning** and **computer vision systems**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hamidreza-farhadi-tolie/)  
 - 🧑‍🔬 [Google Scholar](https://scholar.google.com/citations?hl=en&user=nzCbjWIAAAAJ)  
 - 📄 [ResearchGate](https://www.researchgate.net/profile/Hamidreza-Farhadi-Tolie?ev=hdr_xprf)  
-- 📧 hamidreza.farhadi-tolie@warwick.ac.uk 📍 Coventry, England
+- 📧 hamidreza.farhadi-tolie@warwick.ac.uk
+📍 Coventry, England
 
 ---
 
